@@ -1,13 +1,15 @@
 {
   "figma_file_key": "yOIl8TnBUy2togNRTL0Kz0",
-  "updated_at": "2026-01-31T20:06:54.083730+00:00",
+  "updated_at": "2026-01-31T20:09:01.417639+00:00",
   "completed_steps": [
     "Step 1: Extract from Figma",
     "Step 2: Export Ground Truth",
     "Step 3: Visual Analysis",
     "Step 5: Scaffold Project",
     "Step 6: Generate Components",
-    "Step 4: Component & Interaction Audit"
+    "Step 4: Component & Interaction Audit",
+    "Step 7: Deploy & Push"
   ],
-  "github_repo_url": "https://github.com/metaphi-agent/figma-eval-6d91b0b6-ef54-439d-9d50-06e79090dce5-codex"
+  "github_repo_url": "https://github.com/metaphi-agent/figma-eval-6d91b0b6-ef54-439d-9d50-06e79090dce5-codex",
+  "deployed_url": "https://storage.googleapis.com/metaphi-agent/figma-eval/6d91b0b6-ef54-439d-9d50-06e79090dce5/index.html"
 }
