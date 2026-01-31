@@ -1,0 +1,12 @@
+{
+  "figma_file_key": "yOIl8TnBUy2togNRTL0Kz0",
+  "total_frames": 1,
+  "frames": [
+    {
+      "name": "Design",
+      "node_id": "0:7",
+      "gt_image": "Design.png",
+      "target_route": "/"
+    }
+  ]
+}

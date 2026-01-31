@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.DS_Store
+.codex/
+
+# Optional local exports
+figma_exports/
+
+# Large local artifacts
+ground_truth/*.png
+transcript.jsonl
